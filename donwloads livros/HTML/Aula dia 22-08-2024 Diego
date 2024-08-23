@@ -1,0 +1,45 @@
+<doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Lógica de programação HTML</title>
+</head>
+<body>
+    <h1>    </h1>
+    <h2>O que são tags?</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing <br>
+        Ad, illo ullam. Ut ipsam nam similique aliquam optio consequatur <br> 
+        autem aperiam facilis consectetur iste numquam tempora quibusdam beatae, <br>
+         libero sapiente! Odit?
+    </p>
+    <p>Quero eu relatório <b> para amanhã</b> </p>
+    <br>Diego <br>
+    <small>diego_alcantara_martins@hotmail.com</small>
+    <p>Nesse curso <small> coisas interessantes sobre html</small></p>
+    <h3></h3>
+    <b>De <del>R$500</del> por R$300</b> <br> <br>
+    <b></b> <!--Deixa meu texto em negrito sem semantica-->
+    <strong></strong> <!--Deixa meu texto em negrito com semantica-->
+    <i></i> <!--Deixa meu texto em itálico não semantico-->
+    <u>Sublinhado</u> <!--Deixa meu texto sublinhado-->
+    <hr>
+    <br>
+    <del></del> <!--Marca o texto removido-->
+    <sup></sup> <!--Deixa meu texto acima superior-->
+    <sub></sub> <!--Deixa meu texto subescrito abaixo-->
+    <p>Estamos aprendendo <abbr title="Hyper text markup language">HTML</abbr></p>
+    <p>Diego  <address> Rua 123 - x</address>   </p>
+    <p> O filme <cite>Titanic</cite> foi trágico. Os atores foram: <q>Leonardo de Caprio e Kate Winslet</q></p>
+    <cite></cite> <!--Para citar algo ou destacar-->>
+    <q></q> <!--destacar o autor da obra-->>
+
+
+
+
+    <h4></h4>
+    <h5></h5>
+    <h6></h6>
+
+
+</body>
